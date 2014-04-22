@@ -102,4 +102,5 @@ stylus:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repo: https://github.com/gmelnik/my-blog.git
+  repo: https://github.com/gmelnik/gmelnik.github.io.git
+  branch: master
