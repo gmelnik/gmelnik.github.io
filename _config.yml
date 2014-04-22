@@ -102,4 +102,4 @@ stylus:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repo: https://github.com/gmelnik/blog.git
+  repo: https://github.com/gmelnik/my-blog.git
